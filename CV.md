@@ -3,7 +3,7 @@ email：xshsxq@gmail.com <br>
 github ： @sxqs-yang <br>
 blog：https://sxqs-yang.github.io/ <br>
  CV ：https://sxqs-yang.github.io/me/CV.html <br>
-微信公众号: 思子于墨（MissingAndHope) <br>
+<i class="icon-weibo"></i>微信公众号: 思子于墨（MissingAndHope) <br>
 
 ----
 ### 教育经历
